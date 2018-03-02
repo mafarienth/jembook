@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.model;
+package com.kelompok8.jembook.model;
 
 /**
  * Created by lalit on 9/12/2016.

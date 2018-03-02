@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LoginRegister.iml" filepath="$PROJECT_DIR$/LoginRegister.iml" />
+      <module fileurl="file://D:\Android\login-register-sqlite-tutorial\LoginRegister.iml" filepath="D:\Android\login-register-sqlite-tutorial\LoginRegister.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Android\login-register-sqlite-tutorial\app\app.iml" filepath="D:\Android\login-register-sqlite-tutorial\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jembook.iml" filepath="$PROJECT_DIR$/jembook.iml" />
     </modules>
   </component>
 </project>

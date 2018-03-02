@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.kelompok8.jembook;
 
 import org.junit.Test;
 
